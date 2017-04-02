@@ -1,0 +1,24 @@
+#left_b{
+    explore: #4e9ad3;
+    folder: #f631ff font;
+    upload: #ff9400;
+    size: 14px;
+    bold: font;
+    color: #e4e4e4;
+   /* text-align: left;
+    display: table-cell;*/
+}
+
+#left_b banner{
+.top_banner
+    font color: #403f3f; large;
+    text: 60px, bold small;
+    text: 18px, bold;
+}
+#left_b res{
+     .results
+     font color: #403f3f;
+     title: 18px, bold;
+     filename:14px, bold;
+     description: 12px, regular; line-height: 24px;
+}
